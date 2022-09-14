@@ -21,5 +21,6 @@
 - [Kaggle](https://www.kaggle.com/)
 - [Краткое руководство по Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
 - Открытый курс машинного обучения от сообщества OpenDataScience ([Russian](https://habr.com/ru/company/ods/blog/322626/), [English](https://mlcourse.ai/))
+- [Учебник по машинному обучению](https://ml-handbook.ru/), Школа Анализа Данных Яндекса 
 - Образовательные платформы: [Coursera](https://www.coursera.org/), [edX](https://www.edx.org/), [NPTEL](https://nptel.ac.in/), [Stepik](https://stepik.org/catalog), [MIT OpenCourseWare](https://ocw.mit.edu/courses/audio-video-courses/) и другие.
 - Книга по LaTex: "Набор и верстка в системе LaTex", С. М. Львовский
