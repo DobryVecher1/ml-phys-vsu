@@ -23,6 +23,7 @@
 - [Учебник по машинному обучению](https://ml-handbook.ru/), Школа Анализа Данных Яндекса
 - [Kaggle](https://www.kaggle.com/)
 - [SVM visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/). Stanford, CS231n
+- [Loss landscape visualization](https://losslandscape.com/)
 - [Gradient Boosting explained](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html), visual demonstration
 - [Краткое руководство по Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
 - Образовательные платформы: [Coursera](https://www.coursera.org/), [edX](https://www.edx.org/), [NPTEL](https://nptel.ac.in/), [Stepik](https://stepik.org/catalog), [MIT OpenCourseWare](https://ocw.mit.edu/courses/audio-video-courses/) и другие.
