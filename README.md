@@ -20,7 +20,7 @@
 - [Шпаргалка по Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - Курсы по машинному обучению. [Раз](https://github.com/esokolov/ml-course-hse) и [два](https://github.com/girafe-ai/ml-mipt)
 - Открытый курс машинного обучения от сообщества OpenDataScience ([Russian](https://habr.com/ru/company/ods/blog/322626/), [English](https://mlcourse.ai/))
-- [Учебник по машинному обучению](https://ml-handbook.ru/), Школа Анализа Данных Яндекса
+- [Учебник по машинному обучению](https://academy.yandex.ru/handbook/ml), Школа Анализа Данных Яндекса
 - [Kaggle](https://www.kaggle.com/)
 - [SVM visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/). Stanford, CS231n
 - [Loss landscape visualization](https://losslandscape.com/)
